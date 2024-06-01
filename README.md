@@ -71,4 +71,4 @@ This project operates under the GNU General Public License v3.0, fostering open 
 
 We welcome contributions from passionate individuals eager to advance the frontiers of computational neuroscience. Whether you're a seasoned developer, a budding researcher, or an enthusiast with a thirst for knowledge, your insights are invaluable. Feel free to open an issue, submit a pull request, or engage in scientific discourse to contribute to this dynamic project.
 
-## Happy Simulating! 🎉🧬
+# Happy Simulating! 🎉🧬
