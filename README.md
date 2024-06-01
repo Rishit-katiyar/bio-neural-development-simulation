@@ -47,7 +47,7 @@ Now that your environment is primed for exploration, let's dive into running the
    $ make run
    ```
 
-### Project Structure: Navigating the Scientific Framework
+## Project Structure: Navigating the Scientific Framework
 
 Explore the inner workings of the Bio-Neural Development Simulation project, where scientific inquiry meets computational prowess. Here's an in-depth breakdown of the directory structure:
 
