@@ -1,4 +1,4 @@
-# Bio-Neural Development Simulation: Unraveling the Complexity of Neural Growth 🧠🔬
+# Bio-Neural Development Simulation: Neural Growth 🧠🔬
 
 Welcome to the Bio-Neural Development Simulation project, an immersive exploration into the intricate world of neural development. Here, we delve deep into the mechanisms governing the growth, connectivity, and refinement of neural networks, offering a comprehensive platform to study these phenomena through computational simulations. Using the OCaml programming language, we provide a sophisticated framework to simulate neuron growth, synapse formation, and synaptic pruning dynamics, shedding light on fundamental processes underlying brain development.
 
